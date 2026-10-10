@@ -1,1 +1,0 @@
-# second-demo-project
